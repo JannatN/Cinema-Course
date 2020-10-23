@@ -18,6 +18,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	vertical-align: baseline;
 }
 
+
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -2882,7 +2884,7 @@ body.subpage {
 	color: #ffffff;
 	height: 100%;
 	max-width: 80%;
-	overflow-y: auto;
+	overflow-y: scroll;
 	padding: 3em 2em;
 	position: fixed;
 	right: 0;
